@@ -12,3 +12,4 @@ C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ref
 C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.pdb
 C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.genruntimeconfig.cache
 C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ref\ObjectHW1.dll
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.sourcelink.json
