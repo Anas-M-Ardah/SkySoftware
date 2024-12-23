@@ -1,0 +1,14 @@
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.AssemblyInfoInputs.cache
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.AssemblyInfo.cs
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.csproj.CoreCompileInputs.cache
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\bin\Debug\net8.0\ObjectHW1.exe
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\bin\Debug\net8.0\ObjectHW1.deps.json
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\bin\Debug\net8.0\ObjectHW1.runtimeconfig.json
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\bin\Debug\net8.0\ObjectHW1.dll
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\bin\Debug\net8.0\ObjectHW1.pdb
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.dll
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\refint\ObjectHW1.dll
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.pdb
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ObjectHW1.genruntimeconfig.cache
+C:\Anas-AlArdah\Sky Software Internship\ObjectHW1\ObjectHW1\obj\Debug\net8.0\ref\ObjectHW1.dll
